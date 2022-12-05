@@ -7,7 +7,9 @@
                     <div class="card-header">About me</div>
 
                     <div class="card-body">
-                        Something special about me here.
+                        This is my personal blog<br>
+                        My name is saber<br>
+                        I am a Back-End Developer.
                     </div>
                 </div>
             </div>

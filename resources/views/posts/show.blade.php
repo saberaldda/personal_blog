@@ -9,7 +9,7 @@
                     <div class="card-body">
                         <div class="">
                             @if($post->image)
-                                <img src="{{ asset('uploads/' . $post->image) }}" width="100" height="100"
+                                <img src="{{ asset('storage/uploads/' . $post->image) }}" width="100" height="100"
                                      class="img-fluid">
                             @else
                                 <img src="{{ asset('no_image.jpg') }}" width="100" height="100" class="img-fluid">
