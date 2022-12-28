@@ -96,6 +96,10 @@ Here is how you can run the project locally:
     this command will create users (admin):
      > email: admin@admin.com , password: password
 
+1. Storage Link
+    ```
+    php artisan storage:link
+    ```
 
 1. Run server 
    
